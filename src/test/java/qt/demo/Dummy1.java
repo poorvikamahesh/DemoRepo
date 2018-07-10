@@ -5,6 +5,7 @@ public class Dummy1 {
   public static void main (String [] args){
     System.out.println ("Created Main method");
     System.out.println ("I am Nikitha");
+     System.out.println ("I am Poorvika");
   }
 
 }
